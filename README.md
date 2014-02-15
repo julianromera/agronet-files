@@ -1,6 +1,6 @@
 ###[agronet-files]()
 
-Agronet's files directory
+Agronet's public files directory
 
 ###'License'
 
